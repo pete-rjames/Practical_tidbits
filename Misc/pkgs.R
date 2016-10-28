@@ -7,7 +7,7 @@ read.pkgs <- c("readstata13", # STATA version 13 files
 
 
 #data cleaning/processing
-cln.pkgs <- c("dplyr")
+cln.pkgs <- c("dplyr", "janitor")
 
 #data visualization
 vis.pkgs <- c("rmarkdown", # generate reports
